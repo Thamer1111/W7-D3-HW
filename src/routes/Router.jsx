@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from "react-router";
 import CharactersList from "../pages/CharactersList";
-import Character from "../pages/character";
+import Character from "../pages/Character";
 
 
 
